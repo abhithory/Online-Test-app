@@ -1,13 +1,18 @@
 
+
+
 # Online Test App
-An Android app for attempting online test seies.
+An Android App to attempt Online Test Series.
 
 Tutors can upload their test series in app and then students can attempt those tests.
 
 ## App Download link:
+
  **Playstore:** Will be soon
  
  **Google Drive:** will be soon
+ 
+ **Still in development stage. It will be ready soon...**
  
 ## Screenshots
 
